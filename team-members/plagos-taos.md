@@ -5,4 +5,5 @@ I worked as an elementary school teacher for 2 years right after college, then I
 I am the proud momma of a 4lb teacup Yorkie named Lexie. Lexie and I moved to Sunnyvale from Austin,TX when I accepted the offer to come work as a DevOps engineer for Taos in the San Jose,CA office. I decided to make the move to Silicon Valley as a leap of faith, looking for a deeper level of fulfillment in life, learning more about myself and tech, focusing on living my best life and working hard to become a better version of myself every day. My hobbies include: making people laugh (LOVE comedy!), discovering new food or entertainment places here in the bay, traveling (near or far), Salsa dancing, learning more about passive income investments/tools and the stock market, fun Python projects with my friends, movies/art galleries/broadway shows or plays, and spending quality time with my friends and family.  
 
 Github: pa90la
+
 Email: plagos@taos.com
